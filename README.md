@@ -1,7 +1,11 @@
 # Code::Blocks
 
 > [!CAUTION]
-> This is not an official repo of `Code::Blocks`.
+> This is not an official repository of `Code::Blocks`.
+
+![logo](image/Cb_splash.png)
+
+## Information
 
 - website: <https://www.codeblocks.org/>
 - sourceforge: <https://sourceforge.net/projects/codeblocks/>
